@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[20]:
-
-
 import requests
 import bs4
 import re
@@ -31,4 +25,3 @@ def search_ndc_database(NDC):
         clean_response.append(re.findall(r"\>(.*?)\<",(str(item)))[0])
         
     return clean_response
-
