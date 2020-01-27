@@ -1,4 +1,4 @@
-# National-Drug-Code-Information-Lookup
+# NDC-National-Drug-Code-Lookup
 A Python script for looking up drug facts and information by NDC code. Quickly search and map a drug name with an NDC code. 
 
 ### Usage
